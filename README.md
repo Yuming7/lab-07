@@ -1,11 +1,11 @@
 # CMPUT 301: Lab 7 Participation Exercise
 
 ## Student Details
-- **Full Name:** `<Enter name>`
-- **CCID:** `<Enter ccid>`
+- **Full Name:** Yuming Zhang
+- **CCID:** yuming7
 
 ## References and Resources
-List any resources used here, or simply put `N/A` if not applicable.
+- Claude (Anthropic AI assistant) - help with the participation exercise code and test
 
 ## Verbal Collaboration
-List students' names and CCIDs here, or simply put `N/A` if not applicable. 
+N/A
